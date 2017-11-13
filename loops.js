@@ -26,3 +26,4 @@ function doWhileLoop(array){
   } while (array.length > 0 && true);
   return array;
 }
+}
